@@ -15,7 +15,6 @@ build
 db.ini
 deploy_key_rsa
 train_mobilenetv2.py
-README.md
 my_dataset.py
 __pycache__
 fasterRCNN.png
